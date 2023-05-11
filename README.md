@@ -10,6 +10,6 @@ We’ll have Bonnie, Jubilee, Frodo, and Foxie: 4 young chimpanzees in our care.
 
 Our program will ensure that during our shift we’ve…
 
-Fed all the chimps
-Played a random game with them
-Conducted a health check on Foxie
+- Fed all the chimps
+- Played a random game with them
+- Conducted a health check on Foxie
