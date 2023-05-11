@@ -1,5 +1,5 @@
 # Animal-Sanctuary-kotlin
-Animal Sanctuary Application lesson from Code Academy
+## Animal Sanctuary Application lesson from Code Academy
 ======================================================
 
 LEARN KOTLIN
